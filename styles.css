@@ -32,6 +32,7 @@ a:hover {
     color: #00a0de;
     text-decoration: underline;
 }
+
 .main-menu.bottom li a{
     font-size: 12px;
 }
@@ -79,12 +80,16 @@ a:hover {
     float: none;
     display: block;
 }
+.main-menu.bottom li a{
+	font-size: 12px;
+}
 
 .main-menu li a {
     padding: 6px 10px;
     text-decoration: underline;
     display: block;
     color: #999999;
+    font-size: 16px;
 }
 
 .main-menu li a:hover {
